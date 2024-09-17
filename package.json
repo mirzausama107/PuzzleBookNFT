@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "epubjs": "^0.3.93",
+    "quill": "^2.0.2",
+    "web3": "^4.12.1"
+  }
+}
